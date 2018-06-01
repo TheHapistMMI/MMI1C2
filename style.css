@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: royalblue;
+    background-color: white;
+    width: 50%;
+    margin-left: 25%;
+}
+
+body{
+    background-color: royalblue;
+    text-align: justify;
+    color: white;
+    width: 50%;
+    float: right;
+    margin-right: 25%;
+}
